@@ -1,4 +1,4 @@
-name: Auto run
+name: Auto go to
 
 on:
   workflow_dispatch:
@@ -45,7 +45,7 @@ jobs:
           IFS=$OLD_IFS
 
 
-          echo "共有 ${#acc_list[*]} 个账号, 即将开始签到..."
+          echo "共有 ${#acc_list[*]} 个账号, 即将开始..."
           for account in ${acc_list[*]}
           do
               python3 action.py ${account}
