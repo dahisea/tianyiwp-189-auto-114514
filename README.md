@@ -1,9 +1,8 @@
-# cloud189app-action
-![Auto run](https://github.com/xtyuns/cloud189app-action/workflows/Auto%20run/badge.svg)
+# cloud189app-act(https://github.com/xtyuns/cloud189app-action/workflows/Auto%20run/badge.svg)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/xtyuns/cloud189app-action?label=version)
-![GitHub last commit](https://img.shields.io/github/last-commit/xtyuns/cloud189app-action?color=orange)
+![GitHub last commit](https://img.shields.io/github/last-commit/xtyuns/cloud189app-action?
 
-**cloud189app-action** 是一个用于完成天翼云盘日常签到、抽奖的免费开源项目
+**cloud189app-action**成天翼云盘日常签到、抽奖的免费开源项目
 > 参考项目：https://github.com/t00t00-crypto/cloud189-action  
 >本项目进行了基于 app_8.9.0 的完全重构
 
