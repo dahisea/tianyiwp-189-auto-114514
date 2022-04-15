@@ -4,7 +4,7 @@
 设置路径: Settings-->Secrets-->New repository secret
 
 Name: ACCS
-Value: 如下所示
+Value: 如下
 
 username----password
 xtyuns----114514
