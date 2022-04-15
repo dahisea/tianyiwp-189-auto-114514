@@ -30,6 +30,7 @@ jobs:
         git add .
         git commit -m "update new" -a
         git push -f
+git push -f
 
     
     - name: Push 
